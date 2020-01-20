@@ -1,0 +1,4 @@
+dependencies:
+- name: inventory-management-svc-mhm
+  version: 1.0.0-1
+  repository: "http://artifactory.mooc-surge-ocp01-cluster-0143c5dd31acd8e030a1d6e0ab1380e3-0000.us-east.containers.appdomain.cloud/artifactory/generic-local/mooc-team-surge"
